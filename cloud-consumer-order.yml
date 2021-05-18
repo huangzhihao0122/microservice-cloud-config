@@ -5,7 +5,7 @@ server:
 spring:
   application:
     #应用程序名称
-    name: cloud-provider-order
+    name: cloud-provider-goods
 
   cloud:
     consul:
